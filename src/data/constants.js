@@ -6,7 +6,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/im-yabi",
-  resume: "https://drive.google.com/file/d/1X4681y3kWJTigpw2dEdmpR0RZEHeLX2Q/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1kYY-5x8LcEy_tcO0DGTiBTQNYq0PlO4D/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/yabesh-murugan-3a8041199/",
   phone : "tel:+91 6379583385"
 };
